@@ -6,7 +6,7 @@
 
 Little about me:
 
-Software Engineer with 2+ years of experience mainly in Desktop based modelling and simulation systems as well as Web Technologies. I have strong practical knowledge of Object Oriented Programming, Data Structures, Algorithms and Design Patterns which I have been practicing throughout my professional career.
+Software Engineer with 5+ years of experience mainly in Desktop based modelling and simulation systems as well as Web Technologies. I have strong practical knowledge of Object Oriented Programming, Data Structures, Algorithms and Design Patterns which I have been practicing throughout my professional career.
 
 My area of expertise includes the following technologies.
 
