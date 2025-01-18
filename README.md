@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muhammad Abubakkar
+- 👋 Hi, I’m Abu Bakkar
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate with amazing peoples
