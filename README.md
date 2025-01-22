@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate with amazing peoples
-- 📫 You can reach me at https://www.linkedin.com/in/muhammad-abubakkar-021270114/
+- 📫 You can reach me at https://www.linkedin.com/in/muhammadabubakkar/
 
 Little about me:
 
